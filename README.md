@@ -8,14 +8,20 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 ## Index
 
 
-#####All
-
+##### Basics
 
 - [Variables](https://github.com/ConradoMateu/Swift-Basics/blob/master/Variables.playground/Contents.swift)
 - [If & Else Statements](https://github.com/ConradoMateu/Swift-Basics/blob/master/If%26Else%20Statements.playground/Contents.swift)
 - [While & For Loops](https://github.com/ConradoMateu/Swift-Basics/blob/master/While%20and%20For%20Loops.playground/Contents.swift)
 - [Arrays and Dictionaries](https://github.com/ConradoMateu/Swift-Basics/blob/master/ArraysAndDictionaries.playground/Contents.swift)
+
+##### Basics Apps
+
 - [Minion App](https://github.com/ConradoMateu/Swift-Basics/tree/master/MinionApp/MinionApp)
 - [DogApp](https://github.com/ConradoMateu/Swift-Basics/tree/master/DogApp/DogApp)
 - [Guessing Game(If/Else)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Guessing%20Game/Guessing%20Game)
 - [Prime Number App(with Constrains)](https://github.com/ConradoMateu/Swift-Basics/blob/master/IsPrime/IsPrime)
+
+##### Apps with Navigation
+
+- [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timer)

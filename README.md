@@ -5,6 +5,7 @@ First steps with swift.
 Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/the-complete-ios-9-developer-course/learn/)
 
 
+
 ## Index
 
 
@@ -17,11 +18,16 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 
 ##### Basics Apps
 
-- [Minion App](https://github.com/ConradoMateu/Swift-Basics/tree/master/MinionApp/MinionApp)
-- [DogApp](https://github.com/ConradoMateu/Swift-Basics/tree/master/DogApp/DogApp)
-- [Guessing Game(If/Else)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Guessing%20Game/Guessing%20Game)
-- [Prime Number App(with Constrains)](https://github.com/ConradoMateu/Swift-Basics/blob/master/IsPrime/IsPrime)
+- [Minion App](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/MinionApp)
+- [DogApp](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/DogApp)
+- [Guessing Game(If/Else)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/Guessing%20Game)
+- [Prime Number App(with Constrains)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/IsPrime/IsPrime)
 
 ##### Apps with Navigation
 
 - [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timer)
+
+
+##### Cheat Sheet by Ray Wenderlich
+
+- [Cheat Sheet](http://cdn3.raywenderlich.com/wp-content/uploads/2014/06/RW-Swift-Cheatsheet-0_6.pdf) 

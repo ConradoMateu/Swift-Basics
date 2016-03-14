@@ -25,9 +25,9 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 
 ##### Navigation, Storage and Live Content
 
-- [Table Views]()
-- [Permanent Storage]()
-- [Segues]()
+- [Table Views](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Table%20Views)
+- [Permanent Storage](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Permanent%20Storage)
+- [Segues](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Segues)
 
 
 ##### Apps with Navigation

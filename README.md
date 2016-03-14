@@ -23,9 +23,18 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 - [Guessing Game(If/Else)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/Guessing%20Game)
 - [Prime Number App(with Constrains)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/IsPrime/IsPrime)
 
+##### Navigation, Storage and Live Content
+
+- [Table Views]()
+- [Permanent Storage]()
+- [Segues]()
+
+
 ##### Apps with Navigation
 
 - [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timer)
+
+- [Time Table (Table Views)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Time%table)
 
 
 ##### Cheat Sheet by Ray Wenderlich

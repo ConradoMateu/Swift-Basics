@@ -33,12 +33,7 @@ class ViewController: UIViewController {
         resLabel.text = "\(seconds)"
     
     }
-    
-    
-    func start(){
-    
-        
-    }
+ 
     
     override func viewDidLoad() {
         super.viewDidLoad()

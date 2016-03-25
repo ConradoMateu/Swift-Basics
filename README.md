@@ -30,11 +30,12 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 - [Segues](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Segues)
 
 
-##### Apps with Navigation
+##### Navigation, Storage and Live Content Apps
 
-- [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timer)
 
-- [Time Table (Table Views)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Time%table)
+- [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/Timer)
+- [Time Table](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/Time%table)
+- [ToDoList](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/ToDoList)
 
 
 ##### Cheat Sheet by Ray Wenderlich

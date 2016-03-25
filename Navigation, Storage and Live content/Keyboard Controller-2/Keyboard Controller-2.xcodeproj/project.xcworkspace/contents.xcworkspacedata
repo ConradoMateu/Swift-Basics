@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Table Views.xcodeproj">
+      location = "self:Keyboard Controller-2.xcodeproj">
    </FileRef>
 </Workspace>

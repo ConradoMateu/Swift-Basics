@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="49e-Tb-3d3">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="49e-Tb-3d3">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -95,8 +95,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KWC-X3-Ehz">
+                                <rect key="frame" x="0.0" y="20" width="320" height="44"/>
+                                <items>
+                                    <navigationItem title="ToDoList" id="RBD-Ke-rWB"/>
+                                </items>
+                            </navigationBar>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="AF3-aF-3jf">
-                                <rect key="frame" x="16" y="124" width="288" height="108"/>
+                                <rect key="frame" x="26" y="124" width="268" height="108"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="156" placeholderIntrinsicHeight="21" text="Add a task to the list" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vhB-A0-fHO">
                                         <rect key="frame" x="0.0" y="0.0" width="156" height="21"/>
@@ -105,7 +111,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" placeholderIntrinsicWidth="564" placeholderIntrinsicHeight="30" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Add a task" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="dJ2-t1-MGL">
-                                        <rect key="frame" x="0.0" y="33" width="288" height="30"/>
+                                        <rect key="frame" x="0.0" y="33" width="268" height="30"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
@@ -118,6 +124,10 @@
                                         </connections>
                                     </button>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="dJ2-t1-MGL" secondAttribute="trailing" id="6Ma-L9-HUA"/>
+                                    <constraint firstItem="dJ2-t1-MGL" firstAttribute="leading" secondItem="AF3-aF-3jf" secondAttribute="leading" id="rWc-hJ-aKK"/>
+                                </constraints>
                             </stackView>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Second View" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="zEq-FU-wV5">
                                 <rect key="frame" x="195" y="279" width="209.5" height="41.5"/>
@@ -132,21 +142,16 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KWC-X3-Ehz">
-                                <rect key="frame" x="0.0" y="20" width="320" height="44"/>
-                                <items>
-                                    <navigationItem title="ToDoList" id="RBD-Ke-rWB"/>
-                                </items>
-                            </navigationBar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="KWC-X3-Ehz" secondAttribute="trailing" id="0VK-EC-Kzg"/>
                             <constraint firstItem="AF3-aF-3jf" firstAttribute="top" secondItem="KWC-X3-Ehz" secondAttribute="bottom" constant="60" id="0Yz-TM-wCF"/>
-                            <constraint firstItem="KWC-X3-Ehz" firstAttribute="centerX" secondItem="AF3-aF-3jf" secondAttribute="centerX" id="Q2b-pK-HgF"/>
                             <constraint firstItem="KWC-X3-Ehz" firstAttribute="leading" secondItem="QS5-Rx-YEW" secondAttribute="leading" id="SdD-jc-R6z"/>
+                            <constraint firstItem="AF3-aF-3jf" firstAttribute="leading" secondItem="QS5-Rx-YEW" secondAttribute="leadingMargin" constant="10" id="U22-bE-58h"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="AF3-aF-3jf" secondAttribute="trailing" constant="10" id="WJD-fC-uAR"/>
                             <constraint firstItem="KWC-X3-Ehz" firstAttribute="top" secondItem="L7p-HK-0SC" secondAttribute="bottom" id="Y48-JJ-nKa"/>
-                            <constraint firstItem="AF3-aF-3jf" firstAttribute="leading" secondItem="QS5-Rx-YEW" secondAttribute="leadingMargin" id="ore-Ey-qhz"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="AF3-aF-3jf" secondAttribute="trailing" constant="10" id="uUT-Ab-Lkc"/>
                         </constraints>
                         <variation key="default">
                             <mask key="subviews">

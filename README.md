@@ -28,6 +28,8 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 - [Table Views](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Table%20Views)
 - [Permanent Storage](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Permanent%20Storage)
 - [Segues](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Segues)
+- [Control the Keyboard](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/keyboard%20Controller)
+- [Control the Keyboard (type 2)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Keyboard%20Controller-2)
 
 
 ##### Navigation, Storage and Live Content Apps

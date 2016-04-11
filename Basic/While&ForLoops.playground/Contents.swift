@@ -13,7 +13,7 @@ while i <= 10 {
     
     print(i * 5)
     
-    i++
+    i += 1
     
 }
 
@@ -23,11 +23,11 @@ var myArray = [8, 3, 6, 8, 2, 45, 21]
 
 var j = 0
 
-while j < myArray.count {
+while i < myArray.count {
     
     myArray[j] = myArray[j] - 1
     
-    i++
+    i += 1
     
 }
 
@@ -36,12 +36,17 @@ print(myArray)
 
 
 // Basic For Loop
-
-for var i = 2; i <= 20; i = i + 2 {
-    
-    print(i)
-    
+var firstForLoop = 0
+for i in 0..<4 {
+    firstForLoop += i
 }
+print(firstForLoop)
+
+var secondForLoop = 0
+for _ in 0...4 {
+    secondForLoop += 1
+}
+print(secondForLoop)
 
 var arr = [8, 3, 9, 91]
 
@@ -68,7 +73,7 @@ print(arr)
 
 // Challenge
 
-var myArray = [8.0, 7.0, 19.0, 28.0]
+var yArray = [8.0, 7.0, 19.0, 28.0]
 
 for (index, value) in myArray.enumerate() {
     

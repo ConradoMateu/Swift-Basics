@@ -1,9 +1,6 @@
 # Swift-Basics
 
-First steps with swift.
-
-Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/the-complete-ios-9-developer-course/learn/)
-
+First steps with Swift.
 
 
 ## Index
@@ -11,10 +8,12 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 
 ##### Basics
 
-- [Variables](https://github.com/ConradoMateu/Swift-Basics/blob/master/Variables.playground/Contents.swift)
-- [If & Else Statements](https://github.com/ConradoMateu/Swift-Basics/blob/master/If%26Else%20Statements.playground/Contents.swift)
-- [While & For Loops](https://github.com/ConradoMateu/Swift-Basics/blob/master/While%20and%20For%20Loops.playground/Contents.swift)
-- [Arrays and Dictionaries](https://github.com/ConradoMateu/Swift-Basics/blob/master/ArraysAndDictionaries.playground/Contents.swift)
+- [Variables](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Variables.playground/Contents.swift)
+- [If/Else & Switch ](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/If:Else%26Switch.playground/Contents.swift)
+- [While & For Loops](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/While%26ForLoops.playground/Contents.swift)
+- [Arrays and Dictionaries](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Arrays%26Dictionaries.playground/Contents.swift)
+- [Functions & Methods](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Functions%26Methods.playground/Contents.swift)
+- [Classes & Initializers](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Classes%26Initializers.playground/Contents.swift)
 
 ##### Basics Apps
 
@@ -25,19 +24,20 @@ Following this course [Complete Ios 9 Developer Course](https://www.udemy.com/th
 
 ##### Navigation, Storage and Live Content
 
-- [Table Views](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Table%20Views)
-- [Permanent Storage](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Permanent%20Storage)
-- [Segues](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Segues)
-- [Control the Keyboard](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/keyboard%20Controller)
-- [Control the Keyboard (type 2)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content/Keyboard%20Controller-2)
+- [Table Views](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Table%20Views/Table%20Views)
+- [Permanent Storage](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Permanent%20Storage/Permanent%20Storage)
+- [Segues](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Segues/Segues)
+- [Control the Keyboard](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/keyboard%20Controller)
+- [Control the Keyboard (type 2)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Keyboard%20Controller-2/Keyboard%20Controller-2)
+- [Advanced String Manipulation](https://github.com/ConradoMateu/Swift-Basics/blob/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Advanced%20String%20Manipulation.playground/section-1.swift)
 
 
 ##### Navigation, Storage and Live Content Apps
 
 
-- [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/Timer)
-- [Time Table](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/Time%table)
-- [ToDoList](https://github.com/ConradoMateu/Swift-Basics/tree/master/Navigation%2C%20Storage%20and%20Live%20content%20Apps/ToDoList)
+- [Timer](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content%20Apps/Timer/Timer)
+- [Time Table](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content%20Apps/Time%20table/Time%20table)
+- [ToDoList](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content%20Apps/ToDoList/ToDoList)
 
 
 ##### Cheat Sheet by Ray Wenderlich

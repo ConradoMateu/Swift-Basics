@@ -14,13 +14,8 @@ First steps with Swift.
 - [Arrays and Dictionaries](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Arrays%26Dictionaries.playground/Contents.swift)
 - [Functions & Methods](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Functions%26Methods.playground/Contents.swift)
 - [Classes & Initializers](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Classes%26Initializers.playground/Contents.swift)
-
-##### Basics Apps
-
-- [Minion App](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/MinionApp)
-- [DogApp](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/DogApp)
-- [Guessing Game(If/Else)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/Guessing%20Game)
-- [Prime Number App(with Constrains)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Basic%20Apps/IsPrime/IsPrime)
+- [Enumerations & Structures](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Enumerations%Structures.playground/Contents.swift)
+- [Protocols](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Protocols.playground/Contents.swift)
 
 ##### Navigation, Storage and Live Content
 

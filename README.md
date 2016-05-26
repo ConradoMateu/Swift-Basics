@@ -16,6 +16,8 @@ First steps with Swift.
 - [Classes & Initializers](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Classes%26Initializers.playground/Contents.swift)
 - [Enumerations & Structures](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Enumerations%26Structures.playground/Contents.swift)
 - [Protocols](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Protocols.playground/Contents.swift)
+- [Optionals](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Optionals.playground/Contents.swift)
+- [Map Filter & Reduce](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Map-Filter-Reduce.playground/Contents.swift)
 
 ##### Navigation, Storage and Live Content
 
@@ -25,6 +27,7 @@ First steps with Swift.
 - [Control the Keyboard](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/keyboard%20Controller)
 - [Control the Keyboard (type 2)](https://github.com/ConradoMateu/Swift-Basics/tree/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Keyboard%20Controller-2/Keyboard%20Controller-2)
 - [Advanced String Manipulation](https://github.com/ConradoMateu/Swift-Basics/blob/master/Timers%2C%20Tables%2C%20Permanent%20Storage%20%26%20Web%20Content/Advanced%20String%20Manipulation.playground/section-1.swift)
+
 
 
 ##### Navigation, Storage and Live Content Apps

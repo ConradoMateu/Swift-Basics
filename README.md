@@ -12,12 +12,13 @@ First steps with Swift.
 - [If/Else & Switch ](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/If:Else%26Switch.playground/Contents.swift)
 - [While & For Loops](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/While%26ForLoops.playground/Contents.swift)
 - [Arrays and Dictionaries](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Arrays%26Dictionaries.playground/Contents.swift)
-- [Functions & Methods](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Functions%26Methods.playground/Contents.swift)
+- [Functions](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Functions.playground/Contents.swift)
 - [Classes & Initializers](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Classes%26Initializers.playground/Contents.swift)
 - [Enumerations & Structures](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Enumerations%26Structures.playground/Contents.swift)
 - [Protocols](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Protocols.playground/Contents.swift)
 - [Optionals](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Optionals.playground/Contents.swift)
 - [Map Filter & Reduce](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Map-Filter-Reduce.playground/Contents.swift)
+- [Closures](https://github.com/ConradoMateu/Swift-Basics/blob/master/Basic/Closures.playground/Contents.swift)
 
 ##### Navigation, Storage and Live Content
 
